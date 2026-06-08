@@ -36,7 +36,7 @@ catches more actual churners, which matters most for retention.
 | `telecom_customer_churn.csv` | Dataset used for this project |
 | `Group_Tango_Churn_Notebook.ipynb` | Full annotated Colab notebook |
 | `Group_Tango_Churn_Report.docx` | Complete written report |
-| `Group_Tango_Churn_Final.pptx` | Final presentation slides |
+| `Group_Tango_Churn_Presentation_Slides.pptx` | Final presentation slides |
 
 ## How to Run the Code
 1. Download `telecom_customer_churn.csv` and upload it to your Google Drive
