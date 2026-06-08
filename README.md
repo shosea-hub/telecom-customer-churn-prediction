@@ -1,5 +1,5 @@
 # Telecom Customer Churn Prediction
-### AI/ML Capstone Project | Group Tango | Tutor: Dami | 2025
+### AI/ML Capstone Project | Group Tango | Tutor: Dami
 
 ## Project Overview
 This project applies supervised machine learning to predict whether a 
