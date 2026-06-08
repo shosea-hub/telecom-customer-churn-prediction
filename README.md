@@ -20,7 +20,7 @@ retention steps before losing them.
 | Random Forest | 81.84% | 0.881 | 0.60 |
 | Logistic Regression | 81.84% | 0.884 | 0.68 ✓ |
 
-**Recommended Model: Logistic Regression** — higher Recall means it 
+**Recommended Model: Logistic Regression** . Higher Recall means it 
 catches more actual churners, which matters most for retention.
 
 ## Key Findings
